@@ -43,8 +43,7 @@ file.close
 
 
 
-![자료](https://github.com/weee456/PyHtml-yobi/assets/133841941/9e8a55a6-64d5-418e-b8f9-7e03af978635)
-
+![자료](https://github.com/weee456/PyHtml/assets/133841941/32642a0b-b3fb-4388-834a-d440392bae04)
 
 
 
